@@ -1,3 +1,2 @@
-# FPSGAME
-This is a game made by me.
-A simple FPS game.
+# TPSCAM
+A Third Person Shooter camera script written in C#
